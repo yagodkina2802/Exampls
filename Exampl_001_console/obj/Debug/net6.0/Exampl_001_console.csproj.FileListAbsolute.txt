@@ -1,0 +1,16 @@
+C:\Users\rekal\OneDrive\Рабочий стол\exampls\Exampl_001_console\bin\Debug\net6.0\Exampl_001_console.exe
+C:\Users\rekal\OneDrive\Рабочий стол\exampls\Exampl_001_console\bin\Debug\net6.0\Exampl_001_console.deps.json
+C:\Users\rekal\OneDrive\Рабочий стол\exampls\Exampl_001_console\bin\Debug\net6.0\Exampl_001_console.runtimeconfig.json
+C:\Users\rekal\OneDrive\Рабочий стол\exampls\Exampl_001_console\bin\Debug\net6.0\Exampl_001_console.dll
+C:\Users\rekal\OneDrive\Рабочий стол\exampls\Exampl_001_console\bin\Debug\net6.0\ref\Exampl_001_console.dll
+C:\Users\rekal\OneDrive\Рабочий стол\exampls\Exampl_001_console\bin\Debug\net6.0\Exampl_001_console.pdb
+C:\Users\rekal\OneDrive\Рабочий стол\exampls\Exampl_001_console\obj\Debug\net6.0\Exampl_001_console.GlobalUsings.g.cs
+C:\Users\rekal\OneDrive\Рабочий стол\exampls\Exampl_001_console\obj\Debug\net6.0\Exampl_001_console.csproj.AssemblyReference.cache
+C:\Users\rekal\OneDrive\Рабочий стол\exampls\Exampl_001_console\obj\Debug\net6.0\Exampl_001_console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rekal\OneDrive\Рабочий стол\exampls\Exampl_001_console\obj\Debug\net6.0\Exampl_001_console.AssemblyInfoInputs.cache
+C:\Users\rekal\OneDrive\Рабочий стол\exampls\Exampl_001_console\obj\Debug\net6.0\Exampl_001_console.AssemblyInfo.cs
+C:\Users\rekal\OneDrive\Рабочий стол\exampls\Exampl_001_console\obj\Debug\net6.0\Exampl_001_console.csproj.CoreCompileInputs.cache
+C:\Users\rekal\OneDrive\Рабочий стол\exampls\Exampl_001_console\obj\Debug\net6.0\Exampl_001_console.dll
+C:\Users\rekal\OneDrive\Рабочий стол\exampls\Exampl_001_console\obj\Debug\net6.0\ref\Exampl_001_console.dll
+C:\Users\rekal\OneDrive\Рабочий стол\exampls\Exampl_001_console\obj\Debug\net6.0\Exampl_001_console.pdb
+C:\Users\rekal\OneDrive\Рабочий стол\exampls\Exampl_001_console\obj\Debug\net6.0\Exampl_001_console.genruntimeconfig.cache
